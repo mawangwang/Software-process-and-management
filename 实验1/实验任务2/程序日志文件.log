@@ -1,0 +1,14 @@
+[framework][11:27:55,311-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:28:57,282-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法delete  
+[framework][11:28:57,319-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:28:58,963-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法delete  
+[framework][11:28:59,045-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:29:00,753-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法delete  
+[framework][11:29:00,802-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:29:14,666-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法add  
+[framework][11:29:14,730-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:29:22,409-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法add  
+[framework][11:29:22,461-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:31:24,229-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法list  
+[framework][11:31:26,234-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法getHomeCostById  
+[framework][11:31:57,546-com.wang.web.HomeCostServlet.doPost(HomeCostServlet.java:41)][INFO]:123.180.231.58***请求方法getHomeCostById  
